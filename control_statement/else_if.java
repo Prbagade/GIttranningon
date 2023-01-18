@@ -4,11 +4,11 @@ public class else_if {
 
 	public static void main(String[] args) 
 	{
-		int marks =80;
+		int marks =75;
 		
 		if(marks>=69) 
 		{
-			System.out.println("student is pass");
+			System.out.println("student is passed");
 		}
 		else if(marks >=40 && marks <=59)
 		{
