@@ -4,7 +4,7 @@ public class else_if {
 
 	public static void main(String[] args) 
 	{
-		int marks =72;
+		int marks =40;
 		
 		if(marks>=69) 
 		{
