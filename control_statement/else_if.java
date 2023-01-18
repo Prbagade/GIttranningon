@@ -4,7 +4,7 @@ public class else_if {
 
 	public static void main(String[] args) 
 	{
-		int marks =40;
+		int marks =80;
 		
 		if(marks>=69) 
 		{
@@ -18,7 +18,7 @@ public class else_if {
 		{
 			System.out.println("student is pass");
 		}
-		System.out.println("++++++welcome++++++");
+		System.out.println("++++++thank you++++++");
 	
 	}
 
