@@ -5,7 +5,7 @@ public class odd_program {
 	//program to find odd numbers	
 	public static void main(String[] args) 
 	{
-		int num1=20;
+		int num1=30;
 
 		int num2=0;
 		
